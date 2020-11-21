@@ -19,12 +19,12 @@ depois exit.
 
 Script já povoado se encontra na pasta:
 
-![alt text](https://github.com/renatoracunha/crudIt/blob/main/sql_scripts/crudit.sql?raw=true)
+https://github.com/renatoracunha/crudIt/blob/main/sql_scripts/crudit.sql
 
 prints do systema:
 
 Landing Page:
-![alt text](https://github.com/renatoracunha/crudIt/blob/main/system_prints/landing.png?raw=true)
+![alt text](https://github.com/renatoracunha/crudIt/blob/main/system_prints/home.png?raw=true)
 
 Cadastro de usuário:
 ![alt text](https://github.com/renatoracunha/crudIt/blob/main/system_prints/cadastro.png?raw=true)
